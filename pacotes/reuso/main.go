@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+// "github.com/brunoarduarte/area"
 
 func main() {
-	fmt.Println(area.Circ(6.0))
+	// fmt.Println(area.Circ(6.0))
 }
